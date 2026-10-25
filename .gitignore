@@ -1,0 +1,13 @@
+# CMake 构建目录
+/out
+
+# Visual Studio 编译产物
+*.obj
+*.pdb
+*.ilk
+*.exp
+
+# CMake 临时文件
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
