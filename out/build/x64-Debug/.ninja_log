@@ -1,0 +1,4 @@
+# ninja log v6
+3	462	8145577193818828	CMakeFiles/TRTInferCore.dir/src/TRTLogger.cpp.obj	488cb456fdf2afdd
+464	866	8145577198433611	TRTInferCore.dll	d083efd1880da311
+464	866	8145577198433611	TRTInferCore.lib	d083efd1880da311
